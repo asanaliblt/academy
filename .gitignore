@@ -1,0 +1,54 @@
+# Node.js
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Parcel cache
+.cache/
+
+# SvelteKit build output
+/.svelte-kit/
+
+# Next.js build output
+/.next/
+
+# Nuxt.js build output
+/.nuxt/
+
+# Angular build output
+/dist/
+
+# Ember.js build output
+/dist/
+
+# Vue.js build output
+/dist/
+
+# Snowpack build output
+snowpack/
+
+# Vite build output
+/dist/
+
+# React build output
+/build/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

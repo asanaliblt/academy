@@ -1,0 +1,16 @@
+.@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Components */
+.button {
+  @apply bg-blue-500 text-white font-bold py-2 px-4 rounded;
+}
+
+.card {
+  @apply bg-white shadow-md rounded-lg p-6;
+}
+
+.alert {
+  @apply bg-red-500 text-white font-bold p-4 rounded;
+}
